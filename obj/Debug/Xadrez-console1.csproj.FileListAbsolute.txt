@@ -1,0 +1,7 @@
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadrez-console1\Xadrez-console1\bin\Debug\Xadrez-console1.exe.config
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadrez-console1\Xadrez-console1\bin\Debug\Xadrez-console1.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadrez-console1\Xadrez-console1\bin\Debug\Xadrez-console1.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadrez-console1\Xadrez-console1\obj\Debug\Xadrez-console1.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadrez-console1\Xadrez-console1\obj\Debug\Xadrez-console1.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadrez-console1\Xadrez-console1\obj\Debug\Xadrez-console1.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadrez-console1\Xadrez-console1\obj\Debug\Xadrez-console1.pdb
